@@ -1,0 +1,47 @@
+{
+  "client": "Northwind Studio",
+  "call": {
+    "title": "Northwind Studio discovery call",
+    "date": "2030-01-15",
+    "participants": "Sam Carter, Priya Shah, Jordan Reyes",
+    "recording_id": null,
+    "share_url": null
+  },
+  "tasks": [
+    {
+      "task": "Send the proposal and onboarding form to Northwind",
+      "owner": "Sam",
+      "area": "Sales",
+      "urgency": "⚡ P1",
+      "status": "Not Started",
+      "due": "2030-01-18",
+      "timestamp": "00:18:30",
+      "summary": "Proposal covers the enquiry form build only; WhatsApp is phase two. Done when Jordan confirms receipt.",
+      "checklist": [
+        "Write the proposal",
+        "Attach the onboarding form",
+        "Email both to Jordan"
+      ],
+      "quote": "I will send the proposal and the onboarding form by Friday.",
+      "done_evidence": "",
+      "needs_check": false,
+      "notes": ""
+    },
+    {
+      "task": "Audit the CRM export and list fields that need cleaning",
+      "owner": "Priya",
+      "area": "Operations",
+      "urgency": "📌 P2",
+      "status": "Not Started",
+      "due": null,
+      "timestamp": "00:18:41",
+      "summary": "Jordan sends the export; list duplicates and missing phone numbers.",
+      "checklist": [],
+      "quote": "",
+      "done_evidence": "",
+      "needs_check": true,
+      "notes": "Confirm which CRM they use."
+    }
+  ],
+  "updates": []
+}

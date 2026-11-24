@@ -1,0 +1,172 @@
+{
+  "title": "Northwind Studio discovery call",
+  "meeting_title": "Northwind Studio discovery call",
+  "meeting_type": null,
+  "url": "https://fathom.video/calls/000000000",
+  "meeting_url": "https://meet.google.com/abc-defg-hij",
+  "created_at": "2030-01-15T10:30:00Z",
+  "scheduled_start_time": "2030-01-15T10:00:00Z",
+  "scheduled_end_time": "2030-01-15T10:30:00Z",
+  "recording_id": 900000001,
+  "recording_start_time": "2030-01-15T10:01:00Z",
+  "recording_end_time": "2030-01-15T10:27:00Z",
+  "calendar_invitees_domains_type": "one_or_more_external",
+  "shared_with": "none",
+  "transcript_language": "en",
+  "transcript": [
+    {
+      "speaker": {
+        "display_name": "Sam Carter",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Thanks for making the time, Jordan. I want to leave this call with a clear scope and a start date for the follow-up system.",
+      "timestamp": "00:00:05"
+    },
+    {
+      "speaker": {
+        "display_name": "Jordan Reyes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Perfect. Right now enquiries come in through the website form and by phone, and we log them by hand. We get around forty a week and only a third are answered the same day.",
+      "timestamp": "00:00:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Priya Shah",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Where does the data live once it is logged? If the CRM export is messy we will need a week to clean it before we automate anything.",
+      "timestamp": "00:01:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Jordan Reyes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It is messy, honestly. Duplicates, missing phone numbers, the lot. I can send you an export today.",
+      "timestamp": "00:02:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Sam Carter",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Then here is what I suggest. We start with the enquiry form only: an instant reply, a qualifying question, and a booking link. WhatsApp comes in phase two.",
+      "timestamp": "00:05:10"
+    },
+    {
+      "speaker": {
+        "display_name": "Jordan Reyes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Agreed. Anything over five thousand pounds should go to a person, not a bot.",
+      "timestamp": "00:10:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Sam Carter",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I will send the proposal and the onboarding form by Friday. Priya will audit the export and tell you which fields need cleaning.",
+      "timestamp": "00:18:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Priya Shah",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And someone needs to book the kickoff call for the week after next once the proposal is signed.",
+      "timestamp": "00:19:05"
+    },
+    {
+      "speaker": {
+        "display_name": "Jordan Reyes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I will share admin access to the form this afternoon. Thanks both.",
+      "timestamp": "00:24:48"
+    }
+  ],
+  "default_summary": {
+    "template_name": "General",
+    "markdown_formatted": "## Meeting Purpose\n\n[To agree the scope and start date for Northwind Studio's lead follow-up system.](https://fathom.video/share/EXAMPLE-sample-not-a-real-recording?timestamp=12.0)\n\n## Key Takeaways\n\n  - [**Scope agreed:** Northwind wants every new enquiry answered within five minutes, with a human handover for anything over 5,000 pounds.](https://fathom.video/share/EXAMPLE-sample-not-a-real-recording?timestamp=95.0)\n  - [**Biggest risk:** their CRM export is messy, so the first week goes on cleaning data before anything is automated.](https://fathom.video/share/EXAMPLE-sample-not-a-real-recording?timestamp=310.0)\n  - [**Decision:** start with the enquiry form only and add WhatsApp in phase two.](https://fathom.video/share/EXAMPLE-sample-not-a-real-recording?timestamp=642.0)\n\n## Topics\n\n### Current process\n\n  - Enquiries arrive by form and by phone and are logged by hand.\n      - Around 40 a week, a third answered the same day.\n  - Jordan checks the inbox twice a day.\n\n### Proposed build\n\n1. Form submission triggers an instant reply.\n2. Qualified leads are booked straight into the calendar.\n\n## Next Steps\n\n  - Sam to send the proposal and the onboarding form by Friday.\n  - Priya to audit the CRM export and list the fields that need cleaning.\n  - Jordan to share admin access to the enquiry form.\n"
+  },
+  "action_items": [
+    {
+      "description": "Send the proposal and the onboarding form to Jordan by Friday",
+      "user_generated": false,
+      "completed": false,
+      "recording_timestamp": "00:18:30",
+      "recording_playback_url": "https://fathom.video/share/EXAMPLE-sample-not-a-real-recording?timestamp=1110",
+      "assignee": {
+        "name": "Sam Carter",
+        "email": "sam@example.com",
+        "team": null
+      }
+    },
+    {
+      "description": "Audit the CRM export and list the fields that need cleaning",
+      "user_generated": false,
+      "completed": false,
+      "recording_timestamp": "00:18:41",
+      "recording_playback_url": "https://fathom.video/share/EXAMPLE-sample-not-a-real-recording?timestamp=1121",
+      "assignee": {
+        "name": "Priya Shah",
+        "email": "priya@example.com",
+        "team": null
+      }
+    },
+    {
+      "description": "Book the kickoff call for the week after next once the proposal is signed",
+      "user_generated": false,
+      "completed": false,
+      "recording_timestamp": "00:19:05",
+      "recording_playback_url": "https://fathom.video/share/EXAMPLE-sample-not-a-real-recording?timestamp=1145",
+      "assignee": null
+    },
+    {
+      "description": "Share admin access to the enquiry form",
+      "user_generated": false,
+      "completed": false,
+      "recording_timestamp": "00:24:48",
+      "recording_playback_url": "https://fathom.video/share/EXAMPLE-sample-not-a-real-recording?timestamp=1488",
+      "assignee": {
+        "name": "Jordan Reyes",
+        "email": "jordan@example.com",
+        "team": null
+      }
+    }
+  ],
+  "highlights": null,
+  "calendar_invitees": [
+    {
+      "name": "Sam Carter",
+      "email": "sam@example.com",
+      "email_domain": "example.com",
+      "is_external": false,
+      "matched_speaker_display_name": "Sam Carter"
+    },
+    {
+      "name": "Priya Shah",
+      "email": "priya@example.com",
+      "email_domain": "example.com",
+      "is_external": false,
+      "matched_speaker_display_name": "Priya Shah"
+    },
+    {
+      "name": "Jordan Reyes",
+      "email": "jordan@example.com",
+      "email_domain": "example.com",
+      "is_external": true,
+      "matched_speaker_display_name": "Jordan Reyes"
+    }
+  ],
+  "recorded_by": {
+    "name": "Sam Carter",
+    "email": "sam@example.com",
+    "email_domain": "example.com",
+    "team": "Example Team"
+  },
+  "share_url": "https://fathom.video/share/EXAMPLE-sample-not-a-real-recording",
+  "crm_matches": null
+}

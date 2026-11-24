@@ -1,0 +1,28 @@
+{
+  "team": [
+    {
+      "name": "Your Name",
+      "aliases": ["Your Full Name As Fathom Shows It"],
+      "emails": ["you@example.com"],
+      "notion_user_id": "",
+      "discord_user_id": ""
+    },
+    {
+      "name": "Teammate Name",
+      "aliases": [],
+      "emails": ["teammate@example.com"],
+      "notion_user_id": "",
+      "discord_user_id": ""
+    }
+  ],
+  "default_owner": "Your Name",
+  "tasks": {
+    "other_people": "skip",
+    "default_urgency": "📌 P2",
+    "only_for_titles_matching": ""
+  },
+  "discord": {
+    "label": "Tasks",
+    "escalation_role_id": ""
+  }
+}

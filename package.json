@@ -1,0 +1,29 @@
+{
+  "name": "call-to-tasks",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Fathom call -> Notion call library and task board -> Discord ping",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node tests/run-tests.mjs",
+    "demo": "node scripts/demo.mjs",
+    "check": "node scripts/check.mjs",
+    "setup:notion": "node scripts/setup-notion.mjs",
+    "notion:users": "node scripts/setup-notion.mjs --users",
+    "register": "node scripts/register-webhook.mjs",
+    "send-sample": "node scripts/send-sample.mjs",
+    "status": "node scripts/status.mjs",
+    "backfill": "node scripts/backfill.mjs",
+    "one": "node scripts/one.mjs",
+    "relay": "node scripts/relay.mjs",
+    "fathom": "node scripts/fathom-fetch.mjs",
+    "board": "node scripts/board.mjs",
+    "push": "node scripts/push-tasks.mjs"
+  },
+  "dependencies": {
+    "@vercel/functions": "^3.9.9"
+  }
+}

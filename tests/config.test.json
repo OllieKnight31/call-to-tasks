@@ -1,0 +1,9 @@
+{
+  "team": [
+    { "name": "Sam", "aliases": ["Sam Carter", "Samuel"], "emails": ["sam@example.com"], "notion_user_id": "00000000-0000-0000-0000-000000000000", "discord_user_id": "111111111111111" },
+    { "name": "Priya", "aliases": ["Priya Shah"], "emails": ["priya@example.com"], "notion_user_id": "", "discord_user_id": "222222222222222" }
+  ],
+  "default_owner": "Sam",
+  "tasks": { "other_people": "skip", "default_urgency": "📌 P2", "only_for_titles_matching": "" },
+  "discord": { "label": "Tasks", "escalation_role_id": "333333333333333" }
+}
